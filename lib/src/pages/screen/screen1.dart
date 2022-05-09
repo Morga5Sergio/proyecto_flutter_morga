@@ -32,6 +32,3 @@ class Sreen1 extends StatelessWidget {
   }
 }
 
-/*Container(
-child: Image.asset("images/home.png"),
-);*/

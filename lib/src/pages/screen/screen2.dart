@@ -14,11 +14,6 @@ class Sreen2 extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
           crearCard("images/pokemon.png",  "Pokemon", 150),
-         /* Text("Pokemon", style: TextStyle(
-              fontSize: 20,
-              color: Colors.black,
-              fontWeight: FontWeight.bold
-          ),),*/
           _swiperCards(),
           //_footer(),
         ],
